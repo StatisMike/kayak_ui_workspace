@@ -1,0 +1,8 @@
+[package]
+name = "library_crate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.10.*"
+kayak_ui = "0.4.1"

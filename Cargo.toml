@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+  "binary_crate",
+  "library_crate",
+]
